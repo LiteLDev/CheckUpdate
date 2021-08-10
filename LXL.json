@@ -4,7 +4,7 @@
     {
         "Version":"0.4.1",
         "BDS":"1.17.10",
-        "URL":"https://cdn.jsdelivr.net/gh/LiteLDev/update/LXL/",
+        "URL":"https://cdn.jsdelivr.net/gh/LiteLDev/update@master/LXL/",
         "Files":[
             {
                 "Name":"LiteXLoader.Js.dll",
